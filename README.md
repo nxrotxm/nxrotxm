@@ -31,6 +31,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nxrotxm&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=nxrotxm&theme=tokyonight)
 
 🎯 Career Goal
 
