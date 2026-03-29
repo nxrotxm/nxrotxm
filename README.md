@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Narotam Zinzuvadiya 
 
-<!--
-**nxrotxm/nxrotxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Cybersecurity Professional | Junior Penetration Tester
+🔐 Passionate about Ethical Hacking & Network Security  
+💻 Currently learning: Google Cybersecurity Professional Certificate
+🚀 Building hands-on cybersecurity projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+🧠 Skills & Tools
+🐧 Kali Linux
+🌐 Networking Basics
+🛠️ Nmap, Wireshark, Metasploit
+🔐 Basic Security Concepts  
+
+---
+
+## 📂 Projects
+🔹 Nmap Network Scanning Project  
+👉 (Add your GitHub repo link here)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nxrotxm&show_icons=true&theme=dark)
+
+🎯 Career Goal
+
+To become a skilled penetration tester and contribute to securing real-world systems.
+
+## 📫 Connect with me
+- LinkedIn: (your link)  
+
+---
+
+## 🔥 Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-orange)
+![Nmap](https://img.shields.io/badge/Nmap-green)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue)
+
+
+⚡ “Learning cybersecurity step by step and building real-world skills.”
