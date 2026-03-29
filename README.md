@@ -8,7 +8,6 @@
 ---
 
 ## 🛠 Skills
-🧠 Skills & Tools
 🐧 Kali Linux
 🌐 Networking Basics
 🛠️ Nmap, Wireshark, Metasploit
