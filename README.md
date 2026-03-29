@@ -12,9 +12,13 @@
 
 ## 🛠 Skills
 🐧 Kali Linux
+
 🌐 Networking Basics
+
 🛠️ Nmap, Wireshark, Metasploit
-🔐 Basic Security Concepts  
+
+🔐 Basic Security Concepts
+
 
 ---
 
