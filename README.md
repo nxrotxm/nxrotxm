@@ -23,7 +23,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nxrotxm&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nxrotxm&show_icons=true&theme=tokyonight)
 
 🎯 Career Goal
 
