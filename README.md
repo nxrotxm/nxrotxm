@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Narotam Zinzuvadiya 
 
 🎯 Aspiring Cybersecurity Professional | Junior Penetration Tester
-🔐 Passionate about Ethical Hacking & Network Security  
+
+🔐 Passionate about Ethical Hacking & Network Security
+
 💻 Currently learning: Google Cybersecurity Professional Certificate
+
 🚀 Building hands-on cybersecurity projects  
 
 ---
